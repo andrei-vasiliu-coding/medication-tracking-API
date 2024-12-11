@@ -21,5 +21,4 @@ public class Medication {
 
     @Column
     private int medicationDosage;
-
 }
