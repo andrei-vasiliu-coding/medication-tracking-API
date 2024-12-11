@@ -1,4 +1,7 @@
 package com.personal.medicationtrackingapi.service;
 
-public class MedicationServiceImpl {
+import org.springframework.stereotype.Service;
+
+@Service
+public class MedicationServiceImpl implements MedicationService {
 }
